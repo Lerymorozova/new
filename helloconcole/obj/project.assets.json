@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karse\\Desktop\\GB\\C#\\helloconcole\\helloconcole.csproj",
+      "projectUniqueName": "C:\\Users\\karse\\Desktop\\GB\\C#\\helloconcole\\less5\\new\\helloconcole\\helloconcole.csproj",
       "projectName": "helloconcole",
-      "projectPath": "C:\\Users\\karse\\Desktop\\GB\\C#\\helloconcole\\helloconcole.csproj",
+      "projectPath": "C:\\Users\\karse\\Desktop\\GB\\C#\\helloconcole\\less5\\new\\helloconcole\\helloconcole.csproj",
       "packagesPath": "C:\\Users\\karse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karse\\Desktop\\GB\\C#\\helloconcole\\obj\\",
+      "outputPath": "C:\\Users\\karse\\Desktop\\GB\\C#\\helloconcole\\less5\\new\\helloconcole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karse\\AppData\\Roaming\\NuGet\\NuGet.Config"
